@@ -1,7 +1,7 @@
 intentos = 3
 
 while intentos > 0:
-    if input("escriba la contraseña: ") == "GitHub|":
+    if input("escriba la contraseña: ") == "GitHub":
         print("correcta")
         break;
     intentos = intentos - 1
